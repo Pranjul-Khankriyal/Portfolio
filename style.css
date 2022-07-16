@@ -20,35 +20,36 @@ header{
 }
 
 
+.mid{
+	position: relative;
+	height: 250px;
+	font-size: 32px;
+	top: 120px;
+	font-family: courier new;
+}
 
 .intro{
 	position: absolute;
-	left: 15%;
-	top: 22%;
-	font-size: 28px;
-}
-
-.boxes{
-	position: relative;
-	height: 350px;
-	top: 200px;
-}
-
-
-.projects{
-	position: relative;
 	left: 200px;
-	top: 50px;
-	height: 250px;
-	width: 280px;
-	border-radius: 10px;	
 }
 
-.bottom{
+.thought{
+	position: absolute;
+	left: 1200px;
+	top: 65px;
+	font-family: cursive;
+	font-size: 55px;
+	text-shadow: 2px 2px 8px #000000;
+}
+
+
+
+footer{
 	position: relative;
 	top: 280px;
 	height: 150px;
 }
+
 .socialmedia{
 	position: absolute;
 	top: 55px;
